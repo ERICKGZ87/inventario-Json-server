@@ -1,0 +1,18 @@
+{
+  "Productos": [
+    {
+      "nombre": "Erick adrian gonzalez zerpa",
+      "cantidad": 100,
+      "stockminimo": 50,
+      "categoria": "cera",
+      "id": 1
+    },
+    {
+      "nombre": "pedro",
+      "cantidad": 500,
+      "stockminimo": 505,
+      "categoria": "acri",
+      "id": 2
+    }
+  ]
+}
